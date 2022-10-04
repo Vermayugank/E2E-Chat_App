@@ -1,5 +1,5 @@
 # End to end encryption
-Its is made usinf QuickEncrypt Module.
+Its is made using QuickEncrypt Module.
 
 ### how to start in development mode 
 
